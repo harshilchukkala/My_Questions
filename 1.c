@@ -3,7 +3,7 @@
 int main (void)
 {
     printf("My Information\n\n");
-    printf("Name : Harshil Chukkala\n");
+    printf("Name : Trinaya\n");
     printf("Age : 17\n");
     printf("Hobby : singer\n");
 
